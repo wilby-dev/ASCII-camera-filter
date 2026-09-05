@@ -54,7 +54,7 @@ ascii-cam/
   Python pixel loop will chug at very large widths; vectorizing with NumPy
   reshape/mean tricks is the next optimization if you want to push it further.
 - If `cv2.VideoCapture(0)` doesn't find your camera, try `--camera 1` or
-  check your OS's camera permissions for the terminal app.
+  check your OS's camera permissions for the terminal app. Open the OpenCV.txt file for a link to the project.
 
 ## Push to GitHub
 
